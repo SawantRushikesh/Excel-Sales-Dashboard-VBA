@@ -1,5 +1,6 @@
 # Excel-Sales-Dashboard-VBA
 # 🧮 Excel Product Sales Dashboard using Pivot Tables + VBA
+ <img width="1109" height="405" alt="Screenshot (460)" src="https://github.com/user-attachments/assets/1e8f6aa9-e90d-45ca-b892-16db651b7892" />
 
 ## 📌 Overview
 
