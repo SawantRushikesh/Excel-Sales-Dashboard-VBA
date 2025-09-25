@@ -35,12 +35,6 @@ Built using:
 
 ---
 
-## 📸 Screenshots
-
-![Dashboard Overview](./Screenshot.png)
-
----
-
 ## 🧠 Learnings
 
 - Excel automation using VBA
@@ -52,5 +46,5 @@ Built using:
 
 ## 🔗 Connect
 
-Let's connect on [LinkedIn](https://linkedin.com/in/yourprofile)!
+Let's connect on [LinkedIn](https://www.linkedin.com/in/rushikesh-sawant-511896260/)
 
