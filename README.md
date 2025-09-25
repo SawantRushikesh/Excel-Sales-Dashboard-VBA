@@ -1,2 +1,56 @@
 # Excel-Sales-Dashboard-VBA
-Built an interactive Excel dashboard to analyze product sales by region, category, and city using Pivot Tables, Macros, and VBA. Includes charts, automation, and user-friendly layout. Ideal for tracking performance and making data-driven decisions.
+# 🧮 Excel Product Sales Dashboard using Pivot Tables + VBA
+
+## 📌 Overview
+
+This Excel dashboard project helps visualize **product sales performance** across different Indian states and cities.
+
+Built using:
+
+- 🟢 Excel Pivot Tables
+- 🟢 Macros & VBA (for automation)
+- 🟢 Interactive charts (bar, pie)
+- 🟢 Category, Region, and City-level filters
+
+---
+
+## 🎯 Features
+
+- Dynamic data refresh with macros
+- Interactive charts for:
+  - Top cities by sales
+  - Product category quantities
+  - Bottom products by performance
+  - Region-wise customer distribution
+- Simple, clean layout for business use
+
+---
+
+## 🛠 Tools Used
+
+- Excel 2016+
+- VBA
+- Pivot Tables
+- Basic Macros
+
+---
+
+## 📸 Screenshots
+
+![Dashboard Overview](./Screenshot.png)
+
+---
+
+## 🧠 Learnings
+
+- Excel automation using VBA
+- Dynamic dashboards
+- Using Pivot Charts for effective visualization
+- Region-wise customer insights
+
+---
+
+## 🔗 Connect
+
+Let's connect on [LinkedIn](https://linkedin.com/in/yourprofile)!
+
